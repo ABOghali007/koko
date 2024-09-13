@@ -4,8 +4,8 @@
       "redirect_link": "https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524149"
     },
     "AdsController": {
-      "BannerNetwork": "fan",
-      "InterstitialNetwork": "fan",
+      "BannerNetwork": "ad",
+      "InterstitialNetwork": "ad",
       "RewardNetwork": "fan",
       "NativeNetwork": "fan",
       "IntervalClick": 4,

@@ -6,8 +6,8 @@
     "AdsController": {
       "BannerNetwork": "ad",
       "InterstitialNetwork": "ad",
-      "RewardNetwork": "fan",
-      "NativeNetwork": "fan",
+      "RewardNetwork": "",
+      "NativeNetwork": "",
       "IntervalClick": 4,
 
       "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",

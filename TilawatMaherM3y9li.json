@@ -7,7 +7,7 @@
       "BannerNetwork": "fan",
       "InterstitialNetwork": "fan",
       "RewardNetwork": "",
-      "NativeNetwork": "fan",
+      "NativeNetwork": "",
       "IntervalClick": 4,
 
       "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",

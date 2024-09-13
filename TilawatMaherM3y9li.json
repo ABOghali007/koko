@@ -6,7 +6,7 @@
     "AdsController": {
       "BannerNetwork": "fan",
       "InterstitialNetwork": "fan",
-      "RewardNetwork": "fan",
+      "RewardNetwork": "",
       "NativeNetwork": "fan",
       "IntervalClick": 4,
 
